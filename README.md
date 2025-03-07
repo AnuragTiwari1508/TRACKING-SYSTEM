@@ -92,13 +92,6 @@ yarn start
 * Some test Goerli Eth in your ethereum wallet
 * A .env file created similarly to the .env.example file now filled with your own approriate environment variables
 
-## Authors
-
-Contributor(s) names and contact info
-
-Names: Adeola David Adelakun, Wilfred Adzer, Mbazu Daniel, Umaha Tokula, Nnamdi Nwabueze
-
-Email: team201@gmail.com
 
 
 ## License
